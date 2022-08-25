@@ -13,14 +13,14 @@ int	parser(char *str)
 		{
 			if (str[i] >= '1' && str[i] <= '4')
 			{
-				printf("%c", str[i]);
+				//printf("%c", str[i]);
 				j++;
 			}
 			else if (str[i] != ' ')
 				return 1;
 			i++;
 		}
-		printf("\n");
+		// printf("\n");
 	}
 	//printf("%s\n", str);
 	return 0;
