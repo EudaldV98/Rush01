@@ -3,13 +3,13 @@
 void	clues_of_1(t_data *data, int i, int j)
 {
 	if (i == 0)
-		data->board[i + 1][j] = '4';
+		data->board[i + 1][j] = 4;
 	if (i == 5)
-		data->board[i - 1][j] = '4';
+		data->board[i - 1][j] = 4;
 	if (j == 0)
-		data->board[i][j + 1] = '4';
+		data->board[i][j + 1] = 4;
 	if (j == 5)
-		data->board[i][j - 1] = '4';
+		data->board[i][j - 1] = 4;
 }
 
 void	clues_of_N(t_data *data, int i, int j)
@@ -33,9 +33,9 @@ void	start_clues(t_data *data)
 		j = 0;
 		while (j < 6)
 		{
-			if (data->board[i][j] == '1')
-				clues_of_1(data, i, j);
-			if (data->board[i][j] == '4')
+			// if (data->board[i][j] == 1)
+			// 	clues_of_1(data, i, j);
+			if (data->board[i][j] == 4)
 				clues_of_N(data, i, j);
 			j++;
 		}
