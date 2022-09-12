@@ -32,6 +32,6 @@ Similar to "Unique sequences" but in the case of rules closer to the minimum, wh
 
 7. Lowest skyscraper located adjacent to clue 2
 
-Whenever a skyscraper is placed adjacent to clue 2, the one adjacent to it has to be N (the highest possible).
+Whenever a 1 - floor skyscraper is placed adjacent to clue 2, the one adjacent to it has to be N (the highest possible).
 
 
