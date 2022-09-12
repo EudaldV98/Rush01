@@ -25,8 +25,8 @@ int		main(int ac, char **av)
 
 	//Bactracking
 
-	// if (!backtracking(&data, 0))
-	// 	write(1, "ERROR\n", 6);
+	 if (!backtracking(&data, 0))
+	 	write(1, "ERROR\n", 6);
 
 	// for (size_t i = 0; i < 6; i++)
 	// {
