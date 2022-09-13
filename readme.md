@@ -40,11 +40,11 @@ Whenever a 1 - floor skyscraper is placed adjacent to clue 2, the one adjacent t
 
 2. Error cases check:
 
-'''
+```
 				$> ./rush-01 "4 3 2 1 1 2 2 2 4 3 2 1 1 2 2 2 3"
 				$> ./rush-01 "4 3 2 1 1 2 2 2 4 3 2 1 1 2 2"
 				$> ./rush-01 "4 3 2 1 1 2 2 2 6 3 2 1 1 2 2 2"
 				$> ./rush-01 "4321122243211222"
 				$> ./rush-01 "Bonjours"
-'''
+```
 
