@@ -54,3 +54,12 @@ Whenever a 1 - floor skyscraper is placed adjacent to clue 2, the one adjacent t
 
 3. Test with map generator and check solution given
 
+
+Links:
+
+[Backtracking introduction](https://www.geeksforgeeks.org/backtracking-introduction/) [Backtracking algorithms](https://www.geeksforgeeks.org/backtracking-algorithms/)
+
+[Skyscrapers techniques](https://www.conceptispuzzles.com/index.aspx?uri=puzzle/skyscrapers/techniques)
+
+[Skyscrapers online puzzle](https://www.puzzle-skyscrapers.com/)
+
