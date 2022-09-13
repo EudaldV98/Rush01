@@ -57,7 +57,9 @@ Whenever a 1 - floor skyscraper is placed adjacent to clue 2, the one adjacent t
 
 Links:
 
-[Backtracking introduction](https://www.geeksforgeeks.org/backtracking-introduction/) [Backtracking algorithms](https://www.geeksforgeeks.org/backtracking-algorithms/)
+[Backtracking introduction](https://www.geeksforgeeks.org/backtracking-introduction/)
+
+[Backtracking algorithms](https://www.geeksforgeeks.org/backtracking-algorithms/)
 
 [Skyscrapers techniques](https://www.conceptispuzzles.com/index.aspx?uri=puzzle/skyscrapers/techniques)
 
